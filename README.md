@@ -9,7 +9,7 @@ This repository presents a collection of notebooks to perform spatially-varying 
 
 ## Installation
 To run the code, users may first install the required packages listed in the root directory via ```pip install -r requirements.txt```.
-Users may download the dataset from [Zenodo]() and place the files in ```hyperbolic-image/data/```.
+Users may download the dataset from [Zenodo]() and place the files in ```hyperbolic-imaging/data/```.
 After which, users may simply run the notebooks.
 
 ## Citation
