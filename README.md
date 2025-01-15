@@ -1,7 +1,7 @@
 # Neural network enabled wide field-of-view imaging with hyperbolic metalenses
 [Paper]() | [Data]()
 
-[Joel Yeo](https://orcid.org/0000-0001-5160-7628), Deepak K. Sharma, Saurabh Srivastava, Aihong Huang, Emmanuel Lassalle, Keng Heng Lai, Yuan Hsing Fu, [N. Duane Loh](https://orcid.org/0000-0002-8886-510X), [Arseniy Kuznetsov](https://orcid.org/0000-0002-7622-8939), [Ramon Paniagua-Dominguez](https://orcid.org/0000-0001-7836-681X)
+[Joel Yeo](https://orcid.org/0000-0001-5160-7628), [Deepak K. Sharma](https://orcid.org/0000-0002-5733-3952), [Saurabh Srivastava](https://orcid.org/0000-0001-6420-1440), [Aihong Huang](https://orcid.org/0000-0003-4609-173X), [Emmanuel Lassalle](https://orcid.org/0000-0002-0098-5159), [Egor Khaidarov]([https://orcid.org/0000-0002-0098-5159](https://orcid.org/0000-0002-0848-552X)), Keng Heng Lai, [Yuan Hsing Fu](https://orcid.org/0000-0002-7691-0196), [N. Duane Loh](https://orcid.org/0000-0002-8886-510X), [Arseniy Kuznetsov](https://orcid.org/0000-0002-7622-8939), [Ramon Paniagua-Dominguez](https://orcid.org/0000-0001-7836-681X)
 This repository presents a collection of notebooks to perform spatially-varying deblurring of hyperbolic metalens camera images using a Restormer network demonstrated in our paper. Three notebooks are made available:
 1. Creation of simulated spatially-varying blurred image dataset.
 2. Restormer training.
