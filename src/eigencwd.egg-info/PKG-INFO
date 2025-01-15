@@ -1,9 +1,0 @@
-Metadata-Version: 2.1
-Name: eigencwd
-Version: 1.0
-Summary: EigenCWD: a spatially varying deconvolution algorithm for single metalens imaging
-Author: Joel Yeo
-Author-email: joelyeo@u.nus.edu
-License: GPL v3.0
-Keywords: deconvolution,deblurring,metalens
-License-File: LICENSE
